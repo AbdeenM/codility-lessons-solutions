@@ -5,7 +5,6 @@ BinaryGap
 
 **Find longest sequence of zeros in binary representation of an integer.**
 
-The idea to solve this task is:
 1. Begin by converting the given number to its equivilant binary representation.
 2. Run a while or for loop and store all indexes of ones in an array.
 3. Check if the binary array is empty and return 0.
