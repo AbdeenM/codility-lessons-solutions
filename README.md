@@ -10,3 +10,13 @@ Lesson 01 - Iterations
 
 * **Task Name:** BinaryGap
 * **Problem:** Find longest sequence of zeros in binary representation of an integer.
+
+
+Lesson 02 - Arrays
+------------------
+
+* **Task Name:** CyclicRotation
+* **Problem:** Rotate an array to the right by a given number of steps.
+
+* **Task Name:** OddOccurrencesInArray
+* **Problem:** Find value that occurs in odd number of elements.
