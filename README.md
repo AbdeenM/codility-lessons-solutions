@@ -11,7 +11,6 @@ Lesson 01 - Iterations
 * **Task Name:** BinaryGap
 * **Problem:** Find longest sequence of zeros in binary representation of an integer.
 
-
 Lesson 02 - Arrays
 ------------------
 
@@ -20,3 +19,15 @@ Lesson 02 - Arrays
 
 * **Task Name:** OddOccurrencesInArray
 * **Problem:** Find value that occurs in odd number of elements.
+
+Lesson 03 - Time Complexity
+---------------------------
+
+* **Task Name:** ForgJmp
+* **Problem:** Count minimal number of jumps from position X to Y.
+
+* **Task Name:** PermMissingElem
+* **Problem:** Find the missing element in a given permutation.
+
+* **Task Name:** TapeEquilibrium
+* **Problem:** Minimize the value |(A[0] + ... + A[P-1]) - (A[P] + ... + A[N-1])|.
