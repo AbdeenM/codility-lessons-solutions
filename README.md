@@ -1,7 +1,7 @@
 # Codility Lessons Solutions
 
 This repo contains my solutions to codility tasks for the learning lessons, it is not necessarily the only way to solve them but what you find here is my most efficient approach.
-Each folder contains the lesson respectively and a sub folder of the tasks within each lesson, you can also find a README.md file on each folder explaining the apprach taken to solve each task.
+Each folder contains the lesson respectively and a sub folder of the tasks within each lesson, you can also find a README.md file on each folder explaining the approach taken to solve each task.
 
 You can find the lessons and taks on Codility main website: https://codility.com/programmers/lessons
 
